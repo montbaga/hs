@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Skip to content_c13cw3wj cbavvlr dir dir-ltr</name>
+   <tag></tag>
+   <elementGuidId>3ab17495-8c89-4bf1-a86a-f8dc1b40a719</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.c13cw3wj.cbavvlr.dir.dir-ltr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-application']/div/div/div/div/div[2]/div/div/div/div/header/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>954760fb-44b6-461a-8f74-f031f5c16e81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c13cw3wj cbavvlr dir dir-ltr</value>
+      <webElementGuid>a75ab277-eee4-4a32-bf5c-b7960341aa50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Airbnb homepage</value>
+      <webElementGuid>b9f5d5f4-dce2-4e06-8a1e-f7297db6723f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/</value>
+      <webElementGuid>09e82955-6e68-406d-a111-33bca6a27d1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-application&quot;)/div[1]/div[@class=&quot;t1bgcr6e&quot;]/div[1]/div[1]/div[@class=&quot;c13hltkk cslie43 dir dir-ltr&quot;]/div[@class=&quot;h1tbcuzf dir dir-ltr&quot;]/div[@class=&quot;c1yo0219 dir dir-ltr&quot;]/div[1]/div[@class=&quot;dir dir-ltr&quot;]/header[@class=&quot;curo97c c121bpov dir dir-ltr&quot;]/div[@class=&quot;c1s03i8x c10r4nlz dir dir-ltr&quot;]/div[@class=&quot;c1vw04mb dir dir-ltr&quot;]/a[@class=&quot;c13cw3wj cbavvlr dir dir-ltr&quot;]</value>
+      <webElementGuid>549c29c7-f0d7-459d-9669-42c6030b804f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-application']/div/div/div/div/div[2]/div/div/div/div/header/div/div/a</value>
+      <webElementGuid>d2043770-06bd-4ef5-9c4d-7f0c8799f0c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to content'])[1]/following::a[1]</value>
+      <webElementGuid>165d7341-b017-41ac-a5e7-895e9ef2b5cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start your search'])[1]/preceding::a[1]</value>
+      <webElementGuid>9928dc48-a832-4faf-878b-9db77128f842</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Location'])[1]/preceding::a[1]</value>
+      <webElementGuid>1a988cd1-1926-40f8-ab3e-49332f90d9f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/')]</value>
+      <webElementGuid>aa115b10-bce8-4630-83c1-d3ec24fb89c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a</value>
+      <webElementGuid>116d902e-3a2e-49ee-83e5-0c7fe02bad4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/']</value>
+      <webElementGuid>fc5e070f-9736-4b5b-a5dd-e01ec01b5d92</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
